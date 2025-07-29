@@ -10,4 +10,4 @@ Bienvenido a tu primer taller de la asignatura, para completarlo es necesario qu
 
 - **Nombre completo: Camilo Andrés Gutiérrez Barriga
 - **ID de la Universidad: 0000338758
-- **Usuario de Github: @CamiloGutierrez1
+- **Usuario de Github: CamiloGutierrez1
